@@ -154,9 +154,12 @@ export default function PostcardFlip() {
                   </p>
 
                   <p>
-                    When I said, “owh keknya aku bakal bisa move on kalo intern aku di Oppo udah berakhir.”  
-                    Tapi aku bohong itu, aku nggak akan pernah lupain kamu.  
-                    I will always wait for you.
+                    When I said, “owh keknya aku bakal bisa move on kalo intern aku di Oppo udah berakhir.” Aku bohong wkwk
+                  </p>
+
+                  <p>
+                    Seenggaknya, aku pengen kamu tetep terbuka sih sama aku. Dan aku berharap kita bakal tetep temenan sampe kapan pun.
+                    I love u.
                   </p>
                   <br />
 
