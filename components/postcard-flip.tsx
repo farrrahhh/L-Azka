@@ -91,7 +91,7 @@ export default function PostcardFlip() {
                   <p>
                     Pertama kali tahu kakak yang Kak Amel undang di group, aku ngerasa wahhh, gila nih orang, kuliah S1 jauh banget T_T. 
                     Dan aku sangat amazed wkwk, like what r'u doing in Indo lol and u still choose intern.  
-                    Aku liat jurusan kakak juga keren gitu, mekatronik, like I never heard before.  
+                    Aku liat jurusan kakak juga keren gitu, mekatronik, like I had never heard of it before.  
                     Aku liat LinkedIn kakak juga kayak, “nih orang lebih aktif dari aku T_T.”  
                     Dari situ aku tertarik buat temenan lebih jauh sama kakak.
                   </p>
@@ -108,8 +108,8 @@ export default function PostcardFlip() {
                     Terus kita sempet bertengkar juga gara-gara salah paham itu  
                     (yaa walau aku tetep ngerasa u ngeselin banget sih waktu itu).  
                     Salah satu moment yang ngebuat aku jatuh cinta sama kakak pas kita call-an,just 1 night and u never do that again lol.  
-                    Idk why, are you boring at me? Tapi dari situ aku ngerasa, “Owh kita nyambung ya.”  
-                    Aku suka kakak terbuka sama aku, dari situ aku mulai take feeling at you.
+                    Idk why, are you bored with me?? Tapi dari situ aku ngerasa, “Owh kita nyambung ya.”  
+                    Aku suka kakak terbuka sama aku, dari situ aku mulai take feeling for you.
                   </p>
 
                   <p>
@@ -123,7 +123,7 @@ export default function PostcardFlip() {
                     Aku nanya, “kok kamu jadi deket sama aku dan ngajak sahabatan?”  
                     Terus lu jawab, “kemarin Kak Rizqi nyuruh aku buat banyakin latihan dan ngobrol sama orang.”  
                     Dari situ aku ngerasa, “wkwk ni orang cuma taking benefit dari gw.”  
-                    Dan randomnya, kamu ngajak aku ke tempat kakak — and we did that.  
+                    Dan randomnya, kamu ngajak aku ke tempat kakak, and we did that.  
                     Setelah itu, duniaku ngeliat kakak udah beda.
                   </p>
 
@@ -149,16 +149,19 @@ export default function PostcardFlip() {
                   <p>
                     Kadang aku mikir, mungkin emang aku yang terlalu maksa.  
                     Aku selalu pengen deket sama kamu, selalu nyari perhatian kamu,  
-                    padahal jelas-jelas kamu nggak pernah ngasih tanda kalau aku punya tempat spesial di hidupmu.  
+                    padahal jelas-jelas kamu nggak pernah ngasih tanda kalau aku punya tempat spesial.
                     Jujur capek wkwk, tapi anehnya aku masih di sini.
                   </p>
 
                   <p>
-                    When I said, “owh keknya aku bakal bisa move on kalo intern aku di Oppo udah berakhir.” Aku bohong wkwk
+                    When I said, “owh keknya aku bakal bisa move on kalo intern aku di Oppo udah berakhir.” Aku bohong wkwk. 
+                    Seenggaknya, aku pengen kamu tetep terbuka sih sama aku. 
+                    Setiap harinya sebenarnya aku selalu mikir, "apakah aku harus terus ngejar kakak?", "apakah usahaku buat dapetin kakak kurang banyak?",
+                    "atau aku berhenti aja ya?". Karena eamng capek sih, mikirin orang yang gak peduli sama kita.
+                    Tapi gpp, aku bakal terus kayak gini sampe energiku buat mencintai kakak udah selesei, aku gak tahu kapan itu.
                   </p>
 
                   <p>
-                    Seenggaknya, aku pengen kamu tetep terbuka sih sama aku. Dan aku berharap kita bakal tetep temenan sampe kapan pun.
                     I love u.
                   </p>
                   <br />
@@ -166,6 +169,53 @@ export default function PostcardFlip() {
                   <p className="font-bold text-amber-900 racking-wide text-xs">
                     Makasih ya, kak, udah hadir, even if it’s not the way I wanted.<br />
                     You’ll always be my <span className="italic text-amber-700">“what if.”</span>
+                  </p>
+
+                  <p><b>=====Kesan Pesan ====</b></p>
+                  <p>Semangat terus ya kak buat ngejalanin life after graduation wkwk. I know that umur 20 tahunan pasti banyak hal yang dipikirin.
+                    Kakak jalanin aja, menurutku hidup gak harus muluk-muluk juga. As long as you happy, itu udah cukup. Jadi cari aja kebahagiaan kakak.
+                    Aku bakal dukung apapun yang kakak lakuin.
+                    Kalo ada apa-apa, aku selalu ada kok buat kakak.
+                  </p>
+
+                  <p>
+                    Terus hm... kakak orang keras kepala dan punya dedikasi yang tinggi yang aku tahu wkwk. 
+                    Aku kagum banget dengerin cerita kakak yang di Rusia.
+                    Kalo aku jadi kakak, aku yakin aku udah nyerah dulu hehe.
+                    Itu salah satu hal yang aku suka juga dari kakak. 
+                    Kakak juga bisa keliatan wah juga kalo emang diperluin. You know how to act.
+                  </p>
+                  <p>
+                    Feedback dari aku,
+                    <br />
+                    1. Kakak bisa lebih terbuka sama apa yang kakak rasain, karena orang lain juga gak tahu kalo kakak gak terbuka
+                    <br />
+                    2. Kakak mungkin bisa lebih peka dan peduli sama orang lain, gak semuanya soal kakak
+                    <br />
+                    3. Kakak harus bisa lebih jaga diri sih, jangan sakit lagi LOL. Jangan sering minum bekas orang wkwk.
+                    <br />
+                    4. Kakak harus belajar buat mahamin sesuatu gak cuma dari satu sudut pandang aja.
+                  </p>
+                  <p>
+                    Ini pesan terakhir sih, mungkin aku nggak bisa selalu ada di dekat kakak, tapi aku pengen kakak tahu kalau aku care banget sama kakak. 
+                    Aku pengen kakak bahagia, aku pengen kakak sukses, aku pengen kakak sehat, aku pengen kakak dapet yang terbaik di hidup kakak. 
+                    Aku pengen kakak dapet pasangan yang bisa bener-bener sayang sama kakak, yang bisa nemenin kakak di saat susah dan seneng.
+                    Aku pengen kakak dapet temen-temen yang bener-bener support kakak, yang bisa diajak curhat dan diajak seneng-seneng.
+                    Aku pengen kakak dapet kerjaan yang bener-bener kakak suka, yang bisa bikin kakak semangat tiap hari.
+                  </p>
+                  <p>
+                    Aku tau mungkin aku bukan orang yang spesial buat kakak, tapi aku pengen kakak tahu kalau aku selalu doain yang terbaik buat kakak.
+                    Hm... aku gak tahu ini salah atau gak, karena jujur sakit ngomong kek gini wkkw.
+                    <b>
+                      Aku berharap kita bisa ketemu lagi di situasi dan waktu yang lebih baik :) 
+                    </b>
+                    Aku pengen kakak tahu kalau aku selalu ada buat kakak, kapan pun kakak butuh.
+                  </p>
+                  <p>
+                    Jangan lupa jaga diri, aku selalu doain yang terbaik buat kamu.
+                  </p>
+                  <p>
+
                   </p>
                   <br />
                   <br />
